@@ -5,7 +5,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <h1>Hello Mahadeva</h1>
+                <h1>Welcome to Redux setup</h1>
             </div>
         );
     }
